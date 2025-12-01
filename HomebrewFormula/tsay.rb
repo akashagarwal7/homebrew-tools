@@ -1,9 +1,9 @@
 class Tsay < Formula
   desc ""
   homepage "https://github.com/akashagarwal7/tsay"
-  url "https://github.com/akashagarwal7/tsay/archive/1.0.2.tar.gz"
-  version "1.0.2"
-  sha256 "4d9b286e0af1be5528f91970b4674dca296f31c33def95f8b0a3677a21159e5e"
+  url "https://github.com/akashagarwal7/tsay/archive/1.0.3.tar.gz"
+  version "1.0.3"
+  sha256 "fe0041a25b524c0d24e43f78f98e435739a6d7a6cb6059973ad58a738b8579d0"
   def install
     bin.install "tsay"
   end

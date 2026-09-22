@@ -1,9 +1,9 @@
 class Pgloom < Formula
   desc "Interactive Postgres ERDs from a folder of SQL files"
   homepage "https://github.com/akashagarwal7/pgloom"
-  url "https://github.com/akashagarwal7/pgloom/archive/refs/tags/v0.1.0.tar.gz"
-  version "0.1.0"
-  sha256 "6d70d44d6736e3a2af4a86fa42b480b5317cdea257d30efdff3fa573dcf59031"
+  url "https://github.com/akashagarwal7/pgloom/archive/refs/tags/v0.1.1.tar.gz"
+  version "0.1.1"
+  sha256 "0c9da82ac46d8ba7a728f6dc66e892e199b59accd24fb243731d4b704dbacfd3"
   license "MIT"
 
   depends_on "node"
